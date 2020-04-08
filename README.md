@@ -8,4 +8,4 @@ This Repository contain python code to extract background from a video output fr
 `Numpy`
 
 ## How to run code
-If you want to run this code for your own video then you need to place the link of video inside the file and replace `'test.mp4'` with the link of your video.
+If you want to run this code for your own video then you need to place the link of video inside the file and replace `'test.mp4'` with the link of your video. It will genrate a image of background in video.
