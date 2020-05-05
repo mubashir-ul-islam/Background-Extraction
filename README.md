@@ -1,4 +1,4 @@
-# Background Extraction using python
+# Background Extraction using python (SVD application)
 
 This Repository contain python code to extract background from a video output from still camera. Python file `colour_background.py` contains the code of extracting background.
 
